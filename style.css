@@ -1,0 +1,35 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.container-fluid-1{
+  padding-right: 30px;
+  padding-left: 30px;
+  background-image: linear-gradient(#79b4ec, white, #79b4ec);
+}
+
+
+.container-fluid-2 {
+  background-color: #79b4ec;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+nav {
+  background-color: #79b4ec
+}
+
+b {
+  font-family: 'Annie Use Your Telescope';
+  text-transform: uppercase;
+  font-size: 25px;
+}
+
+h1 {
+    font-family: 'Alfa Slab One';
+}
+
+footer {
+    background-image: linear-gradient(#79b4ec, white, #79b4ec);
+}
